@@ -1,0 +1,9 @@
+<?php
+
+// Your station credentials
+$stationId = "YOUR STATION ID FROM WUNDERGROUND";
+$stationPassword = "YOUR STATION PASSWORD";
+
+// Add whatever options that WUnderground supports
+$options = "&softwaretype=CustomPi&action=updateraw";
+?>
